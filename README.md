@@ -10,8 +10,6 @@
 
 ## 1. RedisJSON
 
-  `local REJSON = require "lua-redis.json"`
-
   Please refer to the source code and comments, and then try to code.
 
 ## 2. RediSearch
