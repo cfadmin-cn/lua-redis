@@ -4,7 +4,7 @@
 
 # development environment
 
-  1. Use docker to pull redisjson or redisearch of `redislab`.
+  1. Use docker to pull [RediSearch](https://oss.redis.com/redisearch/) or [RedisJSON](https://oss.redis.com/redisjson/) of `redislab`.
 
   2. Refer to the `test_*.lua` files.
 
