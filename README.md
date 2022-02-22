@@ -1,6 +1,12 @@
 # Redis-io in Lua.
 
-  Lua driver for Redis-io based on cfadmin
+  Lua driver for Redislab based on `cfadmin`.
+
+# development environment
+
+  1. Use docker to pull redisjson or redisearch of `redislab`.
+
+  2. Refer to the `test_*.lua` files.
 
 ## 1. RedisJSON
 
